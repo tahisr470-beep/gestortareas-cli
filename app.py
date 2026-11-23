@@ -26,7 +26,8 @@ def listar_tareas():
 
 
 def mostrar_menu():
-    print("\n===== GESTOR DE TAREAS =====")
+    print("\n===== SISTEMA DE GESTION DE TAREAS V1 =====")
+    print("Seleccione una operacion:")
     print("1. Agregar tarea")
     print("2. Listar tareas")
     print("5. Salir")
