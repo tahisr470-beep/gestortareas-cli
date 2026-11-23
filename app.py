@@ -1,4 +1,15 @@
 
+tareas = []
+
+
+def completar_tarea():
+    print("Funcion para completar tarea")
+
+
+def eliminar_tarea():
+    print("Funcion para eliminar tarea")
+
+
 def mostrar_menu():
     print("\n===== GESTOR DE TAREAS =====")
     print("1. Agregar tarea")
